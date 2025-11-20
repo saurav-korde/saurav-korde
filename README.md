@@ -1,23 +1,27 @@
-# Hi, I'm Saurav Korde 👋
+# Hi there, I'm Saurav Korde 👋
 
-I am an Aerospace Engineer passionate about the intersection of engineering, data, and automation. My goal is to leverage modern programming and automation tools to solve complex problems, streamline manual engineering processes, and perform insightful data analysis.
+I am a **Data Analyst & Developer** with a hybrid background in **Aerospace Engineering** and **UK Financial Services**.
 
----
-
-### 🚀 What I'm Currently Working On:
-- Sharpening my Python skills with the **[100 Days of Code Challenge](https://github.com/saurav-korde/100-Days-of-Code-Python)**.
-- Building a portfolio of **[Engineering Data Analysis Projects](https://github.com/saurav-korde/Engineering-Data-Analysis-Portfolio)**.
-- Learning about workflow automation with **n8n**.
+I specialize in the convergence of **quantitative rigor**, **business risk**, and **process automation**. My goal is not just to analyze data, but to build end-to-end intelligence systems using the modern data stack.
 
 ---
 
-### 🛠️ Tech & Tools I'm Learning:
-- **Programming:** Python
-- **Automation:** n8n
-- **Version Control:** Git & GitHub
+### 🔭 What I'm Currently Building:
+- **Fintech Transaction Intelligence:** End-to-end analysis of transaction data to identify churn and fraud patterns.
+- **Aviation Operations Analytics:** Optimization of fleet performance using Python EDA and Power BI.
+- **Automated Data Workflows:** Building low-code integrations and API connections with **n8n**.
 
 ---
 
-### 📫 How to Reach Me:
-- **LinkedIn:**  https://www.linkedin.com/in/saurav-korde
+### 🛠️ The Tech Stack:
+
+| **Core Analytics** | **Visualization** | **Automation & DB** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+
+---
+
+### 📫 Connect with Me:
+- **LinkedIn:** [linkedin.com/in/saurav-korde](https://www.linkedin.com/in/saurav-korde)
 - **Email:** sauravkorde@outlook.com
