@@ -6,10 +6,12 @@ I specialize in the convergence of **quantitative rigor**, **business risk**, an
 
 ---
 
-### 🔭 What I'm Currently Building:
-- **Fintech Transaction Intelligence:** End-to-end analysis of transaction data to identify churn and fraud patterns.
-- **Aviation Operations Analytics:** Optimization of fleet performance using Python EDA and Power BI.
-- **Automated Data Workflows:** Building low-code integrations and API connections with **n8n**.
+### 🚀 Current Focus: The Data Specialist Sprints
+I am currently executing a modular build of my technical stack before assembling my final portfolios.
+
+- 🛡️ **SQL Specialist Portfolio (Active):** Executing advanced relational logic projects in PostgreSQL (Retail & Global Health data).
+- 🐍 **Python & Power BI Sprints (Loading):** Upcoming sprints for Pandas data wrangling and DAX modeling.
+- 🏗️ **Target Masterpieces:** Applying these consolidated skills to my **Fintech** and **Aviation** end-to-end solutions.
 
 ---
 
