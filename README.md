@@ -9,7 +9,7 @@ I specialize in the convergence of **quantitative rigor**, **business risk**, an
 ### 🚀 Current Focus: The Data Specialist Sprints
 I am currently executing a modular build of my technical stack before assembling my final portfolios.
 
-- 🛡️ **SQL Specialist Portfolio (Active):** Executing advanced relational logic projects in PostgreSQL (Retail & Global Health data).
+- 🛡️ **SQL Specialist Portfolio (Complete):** Executed advanced relational logic projects in PostgreSQL (Retail & Global Health data).
 - 🐍 **Python & Power BI Sprints (Loading):** Upcoming sprints for Pandas data wrangling and DAX modeling.
 - 🏗️ **Target Masterpieces:** Applying these consolidated skills to my **Fintech** and **Aviation** end-to-end solutions.
 
